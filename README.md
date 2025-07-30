@@ -17,11 +17,6 @@
 
 <img src="https://skillicons.dev/icons?i=ubuntu,redis,markdown" /> <br /><br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kn1515&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kn1515&theme=2077" height="150" alt="languages graph" />
-</div>
-
 <!--
 **kn1515/kn1515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
