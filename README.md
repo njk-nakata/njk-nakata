@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 👋 Hi, I’m Kenta Nakata.
+- 👋 Hi, I’m Kenta Nakata@NTT Data NJK.
 - 🌱 I’m currently learning OS, Security, TypeScript, React.js ...
 
 ## Programming Languages
